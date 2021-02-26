@@ -1,1 +1,1 @@
-<img style="width: 350px;" src="/assets/wechat_qrcode.jpg" />
+![](/assets/wechat_qrcode.jpg | width=300)
